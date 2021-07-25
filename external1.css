@@ -1,0 +1,20 @@
+fieldset{
+			margin:auto;
+			width: 350px;
+			height: 400px;
+			background-color: grey;
+			border-radius: 10%;
+			opacity: 0.7;
+			margin-top: 40px;
+		}
+		table{
+			margin-top: 15%;
+			margin-left: 15%;
+			width: 300px;
+		}
+		body{
+			background-image: url("login.jpg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			font-family:cursive;
+		}
